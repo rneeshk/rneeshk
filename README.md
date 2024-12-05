@@ -26,7 +26,7 @@ Aspiring and enthusiastic Automation engineer having experience in <b>automation
 [![My Skills](https://skillicons.dev/icons?i=java,javascript,cypress,selenium,cpp,git,github,postman,py&theme=light)](https://skillicons.dev)
 
 
-| <a href="https://github.com/rneeshk/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rneeshk&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Rajneesh's github stats" /></a> | <a href="https://github.com/rneeshk/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rneeshk&layout=compact&theme=buefy&hide_border=true" width="420" /></a> |
+| <a href="https://github.com/rneeshk/rneeshk"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rneeshk&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Rajneesh's github stats" /></a> | <a href="https://github.com/rneeshk/rneeshk"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rneeshk&layout=compact&theme=buefy&hide_border=true" width="420" /></a> |
 | ------------- | ------------- |
 
 <br />
