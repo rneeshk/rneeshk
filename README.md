@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/v2/D5616AQEDOGFx4OzZWg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1707759988817?e=1736985600&v=beta&t=Jx6fB47um8wfQiRXSmJc2bde7N8W77VfJl9-78j7GaY" alt="MasterHead">
+<img src="1707759988817.jpg" alt="MasterHead">
 <div align="center">
   <a href="https://your-link.com">
     <img src="rk.gif" alt="Alt Text" width="800"/>
