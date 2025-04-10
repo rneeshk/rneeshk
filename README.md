@@ -1,6 +1,6 @@
 <img src="1707759988817.jpg" alt="MasterHead">
 <div align="center">
-  <a href="https://your-link.com">
+  <a href="">
     <img src="rk.gif" alt="Alt Text" width="800"/>
   </a>
 </div>
