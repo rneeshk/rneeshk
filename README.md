@@ -7,7 +7,7 @@
       
 Aspiring and enthusiastic Automation engineer having experience in <b>automation and manual testing</b>. My ultimate goal is to deliver quality application from a user perspective.
 <br>
-<br>Current Working Skills :</b> JavaScript, Cypress, Java, Selenium, RestAssured, Postman
+<br>Current Working Skills:</b> JavaScript, Cypress, Java, Selenium, TypeScript, Playwright, RestAssured, Postman
 
 <br>
 
